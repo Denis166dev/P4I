@@ -1,0 +1,146 @@
+.btn-atv-reu {
+    overflow: hidden;
+    width: 350px;
+    height: 175px;
+    border-radius: 20px;
+    box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.58);
+    border: none;
+    background-color: #ffff;
+}
+
+.conteudo {
+    FONT-VARIANT: JIS83;
+    margin: 20px 60px;
+    display: grid;
+    grid-template-columns: repeat(4, 24rem);
+    grid-auto-rows: 50%;
+}
+
+
+#titulo-status {
+    margin: 30px 10px;
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    width: 320px;
+    height: 30px;
+    position: absolute;
+}
+
+#titulo-e-btns {
+    width: auto;
+    height: 20px;
+}
+
+#conteudo-btn-atv {
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 121px;
+    height: 19px;
+}
+
+#conteudo-btn-reu {
+    position: absolute;
+    margin: 30px 25px;
+    width: 200px;
+    height: 20px;
+    padding: 0;
+}
+
+.nav {
+    width: 350px;
+    height: 175px;
+    border-radius: 20px;
+    margin: 15px 40px;
+    padding: 0;
+}
+
+#disciplina-pd {
+    margin: 0px -55px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    position: absolute;
+}
+
+.text-titulo {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Arial';
+}
+
+.text-data {
+    font-weight: 600;
+    font-size: 17px;
+    width: 100px;
+    font-family: 'Arial';
+
+}
+
+#botao-mais {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.head-btn {
+    margin: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+#btn-acss-delet {
+    display: flex;
+    gap: 5px;
+    justify-content: flex-end;
+}
+
+.btns-reu {
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+    width: 30px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn-atv {
+    border-radius: 50%;
+    border: none;
+    background-color: transparent;
+    width: 30px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn-atv-position {
+    margin-top: 4rem;
+    margin-left: 18rem;
+}
+
+.text-btn {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Arial';
+}
+
+button {
+    cursor: pointer;
+}

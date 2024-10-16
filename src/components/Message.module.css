@@ -1,0 +1,18 @@
+.msg {
+    width: 50%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 25%;
+}
+.sucesso {
+    color: #155724;
+    background-color: #d4edda;
+}
+
+/*.falha {
+    color: #155724;
+    background-color: #d4edda;
+}*/

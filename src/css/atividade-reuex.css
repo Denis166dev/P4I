@@ -1,0 +1,103 @@
+#titulo-status-ex {
+    position: relative;
+    margin: 0px 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+
+.conteudo-head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#prazo-atv {
+    position: relative;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.conteudo-prazo {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#descricao {
+    width: 30rem;
+    height: auto;
+    position: relative;
+    margin-left: -10rem;
+    margin-top: 1rem;
+    left: 50%;
+    transform: translate(-15%, 0%);
+}
+
+
+.text-descricao-link {
+    font-size: 20px;
+}
+
+#add-link {
+    position: relative;
+    margin-left: 2rem;
+    margin-top: 10rem;
+}
+
+#input-atv {
+    margin: 15px 20px;
+    border-radius: 5px;
+    background-color: #E4E4E4;
+    border: 1px solid #000;
+    right: 0px;
+    width: 350px;
+}
+
+
+#participantes-reu {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 70px;
+    margin-top: 70px;
+}
+
+#ul-reu {
+    line-height: 25px;
+}
+
+#objetivo-reu {
+    position: relative;
+    margin: 0px 70px;
+    margin-top: 10px;
+}
+
+#ata-reu {
+    position: relative;
+    margin: 0px 70px;
+    margin-top: 75px;
+}
+
+.conteudo-titulos-reu {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-cadastrar {
+    position: relative;
+    color: #FFF;
+    bottom: -10vh;
+    right: -95vh;
+    background-color: #BE0D00;
+    box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.50);
+    border: none;
+    padding: 10px 40px;
+    border-radius: 79px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#button-position {
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 7rem;
+}

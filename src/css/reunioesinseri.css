@@ -1,0 +1,59 @@
+#conteudo-geral {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.clique {
+    margin: 30px 0px;
+    padding: 0px;
+    width: 660px;
+    right: 0px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+#clique2 {
+    margin: 0px 140px;
+    margin-bottom: 20px;
+    margin-top: 7rem;
+    position: absolute;
+}
+
+#titulo-reu {
+    color: #000;
+    text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+    font-family: Arial;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#titulo-inseri {
+    color: #000;
+    text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+    font-family: Arial;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#titulo-clique2 {
+    color: #000;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#barra-verde {
+    right: 5px;
+    width: 220px;
+    margin: -20px 0px;
+    border-top: 5px solid #085C16;
+    margin-right: 1000px;
+}

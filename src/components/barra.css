@@ -1,0 +1,12 @@
+:where(.css-dev-only-do-not-override-1wazalj).ant-slider .ant-slider-track {  
+    background-color: #BE0D00;
+}
+
+:where(.css-dev-only-do-not-override-1wazalj).ant-slider .ant-slider-rail {
+    background-color: #085C16 
+}
+
+:where(.css-dev-only-do-not-override-1wazalj).ant-slider .ant-slider-handle::after {
+    background-color: #BE0D00;
+    box-shadow: 0 0 0 2px #000000;
+}

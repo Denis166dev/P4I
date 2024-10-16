@@ -1,0 +1,56 @@
+#btn-at {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.58);
+    cursor: pointer;
+    display: inline-block;
+    padding: .75rem 1.25rem;
+    color: #000000;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    width: 350px;
+    height: 230px;
+    overflow: hidden;
+    position: relative;
+    border: none;
+
+}
+
+#btn-rn {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 5px 4px 10px 0px rgba(0, 0, 0, 0.58);
+    cursor: pointer;
+    display: inline-block;
+    padding: .75rem 1.25rem;
+    color: #000000;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    width: 350px;
+    height: 230px;
+    overflow: hidden;
+    position: relative;
+    border: none;
+}
+
+#space-btns {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: transparent;
+}
+
+.btns-andamento {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.titulos-btn-andamento {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Arial';
+}
